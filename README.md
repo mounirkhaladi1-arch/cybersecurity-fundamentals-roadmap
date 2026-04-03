@@ -1,2 +1,3 @@
 # cyber_security_foundamental_skills-
-A comprehensive roadmap providing a step-by-step walkthrough of the fundamental skills required to move past the beginner phase and transition into a specialized cybersecurity field.
+🛡️ Cybersecurity Fundamental Skills Roadmap
+A comprehensive, hands-on guide designed to take beginners from zero knowledge to being ready for a specialized field in cybersecurity.
