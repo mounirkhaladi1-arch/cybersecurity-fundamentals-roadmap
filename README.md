@@ -1,5 +1,6 @@
 Cyber security roadmap
 1. 🐧 Linux Mastery
+
 Note: pwn.college is better and deeper then overthewire and you could even learn just from it
 Focus on understanding the operating system that powers the internet and hacking tools.
 Linux Foundations Course
