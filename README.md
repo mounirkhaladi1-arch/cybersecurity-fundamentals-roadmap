@@ -63,8 +63,11 @@ Link: https://youtu.be/ix9cRaBkVe0?si=L2GZbF3wgERg1J81
 Description: Covers syntax, loops, and conditions. Can be completed in roughly 5 days.
 Advanced Python Resources
 
+
 Link: https://www.youtube.com/@NeuralNine/
+
 Description: applying Python to security projects.
+
 Quick Reference & Exercises
 Link: https://www.w3schools.com/
 
