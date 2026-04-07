@@ -4,7 +4,7 @@ Note: pwn.college is better and deeper then overthewire and you could even learn
 Focus on understanding the operating system that powers the internet and hacking tools.
 Linux Foundations Course
 Link:https://youtube.com/playlist?list=PLIhvC56v63IJIujb5cyE13oLuyORZpdkL&si=NMDP7pynB7Gc9x
-XO
+
 Description: A short playlist containing the essential foundations for beginners.
 BASH Scripting (Foundations)
 Link: https://youtube.com/playlist?list=PLIhvC56v63IKioClkSNDjW7iz-6TFvLwS&si=4NbzRvWjBshH5-lj
